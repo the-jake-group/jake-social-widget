@@ -1,2 +1,3 @@
-jake-social-widget
+TJG Social Widget
 ==================
+Social Icons widget for Wordpress
